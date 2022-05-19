@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first real project on The Odin Project. I will be building a simple recipe website to demonstrate my (basic) knowledge of git and GitHub, the CLI, VSCODE and HTML. Wish me luck!
