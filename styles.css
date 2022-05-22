@@ -1,0 +1,87 @@
+/* stlyes.css */
+
+div {
+    color: orange;
+    text-align: center;
+    font-size: 30px;
+}
+
+.alert {
+    color: white;
+    background-color: green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+}
+
+p {
+    color: white;
+    background-color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: auto;
+}
+
+h1 {
+    color:blueviolet;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 38px;
+    font-weight: 600;
+    text-align: center;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+}
+
+h3 {
+    color: red;
+    text-align: center;
+
+}
+
+ul {
+    text-align: center;
+    list-style: inside;
+    padding: 0;
+}
+
+ol {
+    text-align: center;
+    list-style: inside;
+    padding: 0;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+button {
+    color: black;
+    background-color: orange;
+    font-family: fantasy;
+    font-size: 18;   
+}
+
+.RecipePhoto {
+    width: 300px;
+    height: auto;
+    margin: auto;
+    width: 20%;
+} 
