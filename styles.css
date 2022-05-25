@@ -1,9 +1,32 @@
 /* stlyes.css */
 
+* {
+    box-sizing: border-box;
+}
+
 div {
     color: orange;
     text-align: center;
     font-size: 30px;
+}
+
+.warning-banner {
+    background-color: red;
+    padding: 20px;
+    border: 20px solid purple;
+    margin: 20px;
+    height: 200px;
+    width: 600px;
+    box-sizing: border-box;
+}
+
+.mom {
+    background-color: blueviolet;
+    padding: 20px;
+    border: 20px solid yellow;
+    margin: 20px;
+    height: 100px;
+    width: 250px;
 }
 
 .alert {
@@ -46,12 +69,14 @@ h2 {
     text-align: center;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 500;
+    border: 2px, solid, black;
 }
 
 h3 {
-    color: red;
+    background-color: red;
+    border: 20 solid purple;
+    padding: 20px;
     text-align: center;
-
 }
 
 ul {
